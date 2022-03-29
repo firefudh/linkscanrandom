@@ -19,7 +19,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*12)+ 1);
+var x=Math.floor((Math.random()*14)+ 1);
 var xxx=null;
 if(x=="1"){xxx="2020/03/corona-virus-symptoms-causes-and.html"}
 if(x=="2"){xxx="2020/02/what-is-vpn.html"}
@@ -32,7 +32,10 @@ if(x=="8"){xxx="2021/04/how-submarine-works.html"}
 if(x=="9"){xxx="2021/06/what-is-vps.html"}
 if(x=="10"){xxx="2022/01/tsunami-impact-of-mount-tonga-eruption.html"}
 if(x=="11"){xxx="2022/01/komodo-island-dragon-island-exotic.html"}
-if(x=="12"){xxx="2022/01/getting-to-know-metaverse-meaning-how.html"}a_to_ve[i].href="https://www.linkscan.xyz/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="12"){xxx="2022/01/getting-to-know-metaverse-meaning-how.html"}
+if(x=="13"){xxx="2022/02/enjoying-exotic-side-of-mount-rinjani.html"}
+if(x=="14"){xxx="2022/02/why-russia-ukraine-conflict-what-is.html"}
+if(x=="15"){xxx="2022/03/biological-weapons.html"}a_to_ve[i].href="https://www.linkscan.xyz/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
