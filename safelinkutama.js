@@ -19,7 +19,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*14)+ 1);
+var x=Math.floor((Math.random()*21)+ 1);
 var xxx=null;
 if(x=="1"){xxx="2020/03/corona-virus-symptoms-causes-and.html"}
 if(x=="2"){xxx="2020/02/what-is-vpn.html"}
@@ -35,7 +35,14 @@ if(x=="11"){xxx="2022/01/komodo-island-dragon-island-exotic.html"}
 if(x=="12"){xxx="2022/01/getting-to-know-metaverse-meaning-how.html"}
 if(x=="13"){xxx="2022/02/enjoying-exotic-side-of-mount-rinjani.html"}
 if(x=="14"){xxx="2022/02/why-russia-ukraine-conflict-what-is.html"}
-if(x=="15"){xxx="2022/03/biological-weapons.html"}a_to_ve[i].href="https://www.linkscan.xyz/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="15"){xxx="2022/03/biological-weapons.html"}
+if(x=="16"){xxx="2022/04/rivalry-in-ideological-and-demographic.html"}
+if(x=="17"){xxx="2022/04/7-ways-to-start-your-own-business-that.html"}
+if(x=="18"){xxx="2022/04/what-is-borobudur-temple-check-out.html"}
+if(x=="19"){xxx="2022/05/pandawa-beach.html"}
+if(x=="20"){xxx="2022/05/ranu-kumbolo-semeru-heaven-is-great.html"}
+if(x=="21"){xxx="2022/05/swimming-in-aare-river-has-become.html"}
+if(x=="22"){xxx="2022/09/economic-recession-whats-that.html"}"}a_to_ve[i].href="https://linkscan.firefudh.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
